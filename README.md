@@ -1,183 +1,260 @@
 # 📦 Supply Chain Analysis
 
-A comprehensive Supply Chain Analysis project that provides insights into sales performance, inventory management, supplier efficiency, and logistics using data visualization and business intelligence techniques.
-
-This project demonstrates how data analytics can be used to improve supply chain operations, reduce costs, and support data-driven business decisions.
+A comprehensive **Supply Chain Analysis** project that analyzes business operations using interactive dashboards and business intelligence techniques. The project provides insights into sales performance, inventory management, supplier efficiency, manufacturing, and logistics to support data-driven decision-making.
 
 ---
 
 ## 📖 Project Overview
 
-The objective of this project is to analyze supply chain data and identify key trends that affect business performance.
+The objective of this project is to analyze supply chain data and identify trends that improve operational efficiency and business performance.
 
 The analysis focuses on:
 
-- Sales Performance
-- Profitability Analysis
-- Inventory Management
-- Supplier Performance
-- Shipping & Delivery Analysis
-- Regional Sales Performance
-- Customer Demand Analysis
+- 📈 Sales Performance
+- 💰 Profitability Analysis
+- 📦 Inventory Management
+- 🚚 Logistics & Transportation
+- 🏭 Manufacturing Performance
+- 🤝 Supplier Performance
+- 🌍 Regional Sales Analysis
+- 📊 Executive Business Overview
 
-The project includes an analytical report, presentation slides, and dashboard screenshots summarizing the findings.
+The repository includes a detailed analysis report, PowerPoint presentation, and dashboard screenshots.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze supply chain performance metrics.
-- Identify high-performing products and regions.
-- Monitor inventory levels.
-- Evaluate supplier efficiency.
-- Analyze shipping performance.
-- Generate business insights for decision making.
+- Analyze key supply chain performance metrics.
+- Monitor inventory levels and stock movement.
+- Evaluate supplier performance.
+- Analyze manufacturing efficiency.
+- Measure logistics and transportation performance.
+- Build interactive dashboards for business decision-making.
+- Generate actionable business insights.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
-```
+```text
 Supply-Chain-Analysis/
 │
 ├── Analysis Report for Supply Chain Analysis Project.pdf
+├── Executive_supplychain_dashboard.png
+├── Inventory_Analysis Dashboard.png
+├── Logistics and transportation dashboard.png
+├── Manufacturing_Analysis dashboard.png
+├── Supplier_performance Dashboard.png
 ├── Supply Chain Performance Analysis.pptx
-├── Screenshot 1.png
-├── Screenshot 2.png
-├── Screenshot 3.png
-├── Screenshot 4.png
-├── Screenshot 5.png
-└── README.md
+├── README.md
 ```
 
 ---
 
-## 📊 Project Components
+# 📊 Dashboards Included
 
-### 📑 Analysis Report
+## 📈 Executive Dashboard
 
-A detailed report containing:
+Provides an overall business summary including:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Revenue Trends
+- Sales by Region
+- KPI Summary
+
+---
+
+## 📦 Inventory Analysis Dashboard
+
+Focuses on inventory operations including:
+
+- Inventory Levels
+- Stock Availability
+- Inventory Turnover
+- Product Demand
+- Stock Status
+
+---
+
+## 🚚 Logistics & Transportation Dashboard
+
+Provides logistics insights such as:
+
+- Shipping Performance
+- Delivery Time
+- Transportation Cost
+- Shipment Status
+- Logistics KPIs
+
+---
+
+## 🏭 Manufacturing Dashboard
+
+Analyzes manufacturing operations:
+
+- Production Performance
+- Manufacturing Cost
+- Production Efficiency
+- Capacity Utilization
+- Manufacturing KPIs
+
+---
+
+## 🤝 Supplier Performance Dashboard
+
+Evaluates supplier effectiveness using:
+
+- Supplier Performance Score
+- Supplier Reliability
+- Delivery Performance
+- Purchase Analysis
+- Supplier Ranking
+
+---
+
+# 📑 Analysis Report
+
+The report contains:
 
 - Business Problem
-- Data Analysis
-- KPI Evaluation
-- Visualizations
-- Findings
+- Dataset Overview
+- Data Cleaning
+- KPI Analysis
+- Dashboard Interpretation
+- Business Insights
 - Recommendations
 
 ---
 
-### 📈 Dashboard
-
-The dashboard provides insights into:
-
-- Total Sales
-- Total Profit
-- Orders
-- Revenue Trends
-- Sales by Region
-- Product Category Performance
-- Inventory Status
-- Shipping Performance
-
----
-
-### 📽 Presentation
+# 📽 Presentation
 
 The PowerPoint presentation summarizes:
 
 - Project Overview
-- Dataset
 - Business Objectives
+- Dataset
 - Dashboard Walkthrough
-- Key Insights
-- Recommendations
+- Key Findings
+- Business Recommendations
 
 ---
 
-## 📌 Key Insights
-
-Some of the insights generated include:
-
-- High-performing products contribute significantly to total revenue.
-- Certain regions outperform others in sales.
-- Shipping delays impact customer satisfaction.
-- Inventory optimization can reduce operational costs.
-- Supplier performance varies across different product categories.
-
----
-
-## 🛠 Tools & Technologies
-
-- Microsoft Excel
-- Power BI / Tableau *(Dashboard)*
-- Microsoft PowerPoint
-- Data Visualization
-- Business Analytics
-
----
-
-## 📊 Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
 - Total Sales
 - Total Revenue
 - Total Profit
-- Number of Orders
-- Average Delivery Time
+- Total Orders
 - Inventory Turnover
+- Average Delivery Time
 - Shipping Cost
+- Manufacturing Efficiency
 - Supplier Performance
 - Regional Sales
 
 ---
 
-## 📷 Dashboard Preview
+# 📌 Key Insights
 
-Dashboard screenshots are included in the repository to showcase the visual analysis and business insights.
-
----
-
-## 🚀 Business Recommendations
-
-- Improve inventory planning to reduce stock shortages.
-- Optimize shipping routes to minimize delivery delays.
-- Strengthen partnerships with high-performing suppliers.
-- Focus marketing efforts on high-revenue regions.
-- Monitor underperforming products for better profitability.
+- High-performing products contribute significantly to overall revenue.
+- Inventory optimization helps reduce operational costs.
+- Manufacturing efficiency directly impacts profitability.
+- Delivery delays affect customer satisfaction.
+- Supplier performance differs across vendors.
+- Regional sales trends highlight profitable markets.
+- Logistics optimization reduces transportation costs.
 
 ---
 
-## 📚 Files Included
+# 🚀 Business Recommendations
+
+- Improve inventory planning to avoid stock shortages.
+- Optimize logistics routes to reduce delivery delays.
+- Strengthen partnerships with reliable suppliers.
+- Improve manufacturing efficiency to reduce production costs.
+- Focus marketing efforts on high-performing regions.
+- Continuously monitor KPIs using interactive dashboards.
+
+---
+
+# 🛠 Tools & Technologies
+
+- Microsoft Excel
+- Power BI
+- Microsoft PowerPoint
+- Data Visualization
+- Business Analytics
+- Supply Chain Analytics
+
+---
+
+# 📷 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Executive_supplychain_dashboard.png)
+
+---
+
+### Inventory Dashboard
+
+![Inventory Dashboard](Inventory_Analysis Dashboard.png)
+
+---
+
+### Logistics & Transportation Dashboard
+
+![Logistics Dashboard](Logistics%20and%20transportation%20dashboard.png)
+
+---
+
+### Manufacturing Dashboard
+
+![Manufacturing Dashboard](Manufacturing_Analysis%20dashboard.png)
+
+---
+
+### Supplier Performance Dashboard
+
+![Supplier Dashboard](Supplier_performance%20Dashboard.png)
+
+---
+
+# 📚 Files Included
 
 | File | Description |
 |------|-------------|
 | Analysis Report | Complete project documentation |
-| PowerPoint Presentation | Project presentation |
-| Dashboard Screenshots | Visual insights from the dashboard |
+| PowerPoint Presentation | Project summary |
+| Dashboard Images | Dashboard screenshots |
 | README.md | Project documentation |
 
 ---
 
-## 🎯 Learning Outcomes
+# 🎓 Learning Outcomes
 
-Through this project, the following skills were demonstrated:
+This project demonstrates skills in:
 
 - Supply Chain Analytics
 - Business Intelligence
-- Dashboard Design
+- Dashboard Development
 - Data Visualization
-- Business Reporting
 - KPI Analysis
-- Data-Driven Decision Making
+- Business Reporting
+- Decision Support Analytics
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
-Contributions, suggestions, and improvements are welcome.
+Contributions are welcome.
 
 1. Fork the repository
-2. Create a new branch
+
+2. Create a feature branch
 
 ```bash
 git checkout -b feature-name
@@ -189,7 +266,7 @@ git checkout -b feature-name
 git commit -m "Add new feature"
 ```
 
-4. Push your branch
+4. Push to GitHub
 
 ```bash
 git push origin feature-name
@@ -197,14 +274,11 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
-
-## 👨‍💻 Author
-
-**Nikhil Kumar Reddy**
 
 GitHub: https://github.com/nikhilkumarreddy84
 
-## 📄 License
+---
 
-This project is intended for educational and portfolio purposes.
+# 📄 License
+
+This project is intended for educational and portfolio purposes only.
